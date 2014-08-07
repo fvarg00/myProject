@@ -1,3 +1,4 @@
+package org.finsen.test;
 
 public class Java8LambdaCalulator {
 	    interface IntegerMath {

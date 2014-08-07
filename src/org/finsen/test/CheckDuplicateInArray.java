@@ -1,3 +1,4 @@
+package org.finsen.test;
 import java.util.HashMap;
 import java.util.Map;
 

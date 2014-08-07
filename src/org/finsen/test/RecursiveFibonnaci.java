@@ -1,3 +1,4 @@
+package org.finsen.test;
 
 public class RecursiveFibonnaci {
 
