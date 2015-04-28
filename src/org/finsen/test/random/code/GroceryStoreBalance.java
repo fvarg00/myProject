@@ -1,4 +1,4 @@
-package org.finsen.test;
+package org.finsen.test.random.code;
 
 public class GroceryStoreBalance {
 

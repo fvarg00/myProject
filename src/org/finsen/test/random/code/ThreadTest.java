@@ -1,5 +1,4 @@
-package org.finsen.test;
-import java.util.concurrent.Executor;
+package org.finsen.test.random.code;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
