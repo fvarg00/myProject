@@ -13,7 +13,9 @@ static {
 {  
     System.out.println("new instance of Foo about to be created!");  
     // has access to internal Foo methods:  
-    print("instance initializer has access to internal methods!");  
+    print("instance initializer has access to internal methods!");
+
+    //throw new RuntimeException("foo bar exception");
 }  
 
 /* Constructor */  
